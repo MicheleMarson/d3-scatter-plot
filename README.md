@@ -1,0 +1,1 @@
+This data shows scatter plot about cars, from https://vizhub.com/curran/datasets/auto-mpg.csv.

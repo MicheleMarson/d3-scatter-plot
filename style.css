@@ -1,0 +1,28 @@
+circle{
+  fill: rgb(184, 27, 53);
+  opacity: .5;
+}
+
+text{
+  font-size: 1.5em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.tick text{
+  fill: #635f5d;
+  font-size: 1.3em;
+}
+
+.tick line{
+  stroke: #c0c0bb;
+}
+
+.axis-label{
+  fill: #8e8883;
+  font-size: 1.6em;
+}
+
+.title{
+  fill: #635f5d;
+  font-size: 2em;
+}
